@@ -1,0 +1,23 @@
+{
+  "name": "exercicio_boas_praticas_css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc main.less main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clmateus/exercicio_boas_praticas_css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clmateus/exercicio_boas_praticas_css/issues"
+  },
+  "homepage": "https://github.com/clmateus/exercicio_boas_praticas_css#readme",
+  "description": "",
+  "devDependencies": {
+    "less": "^4.3.0"
+  }
+}
